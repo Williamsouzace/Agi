@@ -1,0 +1,22 @@
+{
+  "name": "agi",
+  "version": "1.0.0",
+  "description": "teste automatizado agi",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Williamsouzace/Agi.git"
+  },
+  "author": "william de souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Williamsouzace/Agi/issues"
+  },
+  "homepage": "https://github.com/Williamsouzace/Agi#readme",
+  "devDependencies": {
+    "cypress": "^12.7.0"
+  }
+}
